@@ -14,9 +14,9 @@ app.config['SECRET_KEY'] = '7c0d2e2f35e020ec485f18271ca26451'
 
 # Azure OpenAI Configuration
 client = AzureOpenAI(
-    api_key="00099pNnIIEnYGr7klUx9lre5slwp1AJ2WvjJJrtQsAHlvTBpQF7vZBJQQJ99BFACHYHv6XJ3w3AAAAACOG6WvB",
-    api_version="2024-06-20",
-    azure_endpoint="https://deeeepi-mbm2wweg-eastus2.cognitiveservices.azure.com"
+    api_key="99pNnIIEnYGr7klUx9lre5slwp1AJ2WvjJJrtQsAHlvTBpQF7vZBJQQJ99BFACHYHv6XJ3w3AAAAACOG6WvB",
+    api_version="2024-06-01",
+    azure_endpoint="https://deepi-mbm2wweg-eastus2.cognitiveservices.azure.com"
 )
 
 # Sample Employee Dataset
