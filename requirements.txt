@@ -1,0 +1,9 @@
+flask
+openai
+scikit-learn
+numpy
+pandas
+uvicorn
+gunicorn
+jinja2
+uvicorn
